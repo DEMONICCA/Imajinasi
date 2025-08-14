@@ -1,21 +1,23 @@
-# 🍋 DOMINIUM
+# DOMINIUM
 
 ## Dewan Sepuluh Konsep Absolut — *Jū Zettai Gainen no Gikai*
 
-> "Kami bukan dewa. Kami adalah sebab dan akibat, kehendak dan ketidakseimbangan — yang kalian sebut realitas."  
+> "Kami bukan dewa. Kami adalah sebab dan akibat, kehendak dan kehampaan — yang kalian sebut realitas."  
 > — Absolute
 
 ---
 
-## 🔱 Struktur & Tujuan
+## 1. Ringkasan
 
-DOMINIUM adalah organisasi kosmik yang terdiri dari 10 entitas utama — bukan makhluk fana, melainkan manifestasi konsep tertinggi. Mereka hadir sebelum waktu, dan akan tetap eksis bahkan setelah kehampaan menyelimuti segalanya.
+DOMINIUM adalah organisasi kosmik yang terdiri dari sepuluh entitas utama. Mereka bukan makhluk fana, melainkan manifestasi dari konsep tertinggi.  
+Mereka ada sebelum waktu dimulai dan akan tetap eksis bahkan setelah kehampaan menyelimuti segalanya.  
+Setiap entitas diatur dalam pasangan **Ketua** dan **Wakil**, membentuk Dewan Sepuluh Konsep Absolut.
 
 ---
 
-## 🧬 Daftar Ketua & Wakil DOMINIUM
+## 2. Daftar Ketua dan Wakil
 
-| Peringkat | Ketua        | Wakil              | Hubungan Konseptual     | Aspek Yang Dikendalikan      |
+| Peringkat | Ketua        | Wakil              | Hubungan Konseptual     | Aspek yang Dikendalikan      |
 | --------: | ------------ | ------------------ | ------------------------ | ----------------------------- |
 | 1         | Absolute     | Tidak Memiliki     | -                        | Eksistensi Mutlak             |
 | 2         | Eternity     | Tokitsune          | Bayangan Kekal           | Waktu Tanpa Batas             |
@@ -23,16 +25,16 @@ DOMINIUM adalah organisasi kosmik yang terdiri dari 10 entitas utama — bukan m
 | 4         | Destruction  | Guretsu            | Bayangan Kehancuran      | Penghancur Realitas           |
 | 5         | Hatred       | Shien              | Manifestasi Kebencian    | Kebencian Murni               |
 | 6         | Madness      | Kyōran             | Jiwa yang Terbelah       | Kekacauan Mental              |
-| 7         | Balance      | Heishin            | Bayangan Kesetimbangan   | Penjaga Harmoni               |
+| 7         | Emptiness    | Heishin            | Bayangan Kekosongan      | Kekosongan Mutlak             |
 | 8         | Strength     | Iwashige           | Pilar Fisik Mutlak       | Kekuatan Fisik Tertinggi      |
 | 9         | Anger        | Enjin              | Emosi yang Membakar      | Ledakan Emosi Tak Terkendali  |
 | 10        | Life         | Sakihana           | Cermin Masa Depan        | Awal dan Harapan              |
 
 ---
 
-## 🛡️ Evolusi Bentuk Ketua & Wakil
+## 3. Evolusi Bentuk
 
-### 🔺 Form Ketua (Form 1–3)
+### 3.1 Bentuk Ketua
 
 | Ketua        | Form 1              | Form 2                | Form 3                  |
 | ------------ | ------------------- | --------------------- | ----------------------- |
@@ -42,14 +44,12 @@ DOMINIUM adalah organisasi kosmik yang terdiri dari 10 entitas utama — bukan m
 | Destruction  | Hakai no Shōsha     | Shinjitsu Kaimetsu    | Reikon Metsubō          |
 | Hatred       | Zankoku no Honō     | Akui no Megami        | Zetsubō Kōrin           |
 | Madness      | Kyōki no Uta        | Mu no Sakebi          | Shinra Konton           |
-| Balance      | Seion no Tō         | Taikyoku Kekkai       | Chōwa no Kami           |
+| Emptiness    | Kage no Kyomu       | Taikyoku no Kū        | Kami no Kūhaku          |
 | Strength     | Tetsu no Hakaisha   | Shindō Bakudan        | Gōriki Bakusai          |
 | Anger        | Ikari no Ken        | Enjin no Tenkai       | Akuma no Dōmei          |
 | Life         | Saika no Seimei     | Midori no Eien        | Rebirth no Kami         |
 
----
-
-### 🔻 Form Wakil (Form 1–3)
+### 3.2 Bentuk Wakil
 
 | Wakil      | Form 1               | Form 2                 | Form 3                  |
 | ---------- | -------------------- | ---------------------- | ----------------------- |
@@ -58,44 +58,44 @@ DOMINIUM adalah organisasi kosmik yang terdiri dari 10 entitas utama — bukan m
 | Guretsu    | Kaihō no Shōgeki     | Shūmatsu no Kōrin      | Kurai Kaibutsu          |
 | Shien      | Noroi no Kodō        | Akuen no Ōka           | Shikyō Enshin           |
 | Kyōran     | Seishin Kaihō        | Kyōki no Shinka        | Zetsubō Gen'ei          |
-| Heishin    | Reimei no Kyōmei     | Chōwa Shinpi           | Kansei no Shugoshin     |
+| Heishin    | Reimei no Kyomu      | Kūhaku Shinpi          | Kansei no Shugoshin     |
 | Iwashige   | Gōkon Gekishin       | Shin'en no Taiju       | Gōriki Bakusai          |
 | Enjin      | Hono no Ikari        | Onmetsu Reikon         | Ennetsu Rengoku         |
 | Sakihana   | Midori no Negai      | Hikari no Saika        | Seimei no Denshō        |
 
 ---
 
-## 🌀 Fusi Ketua–Wakil: *Sokui no Gattai*
+## 4. Fusi Ketua–Wakil (*Sokui no Gattai*)
 
-Ketika kehancuran semesta tak terhindarkan, ketua dan wakil dapat menyatu menjadi satu bentuk agung melalui **Sokui no Gattai** — “Penobatan Persatuan.” Ini adalah wujud absolut dari kehendak kosmik.
+Ketika kehancuran semesta tidak dapat dihindari, Ketua dan Wakil dapat menyatu menjadi satu bentuk agung — wujud absolut dari kehendak kosmik.
 
 **Contoh fusi:**
-
-- **Eternity + Tokitsune → Tenkai Unmei** — Penguasa Mutlak dari Arus Takdir.  
-- **Death + Kurohime → Meikoku no Kōtei** — Kaisar Bayangan dari Kematian.  
-- **Strength + Iwashige → Bakusai Shindō** — Getaran Tak Terhentikan dari Kekuatan Purba.  
-- **Life + Sakihana → Seika Shin'ō** — Raja Ilahi dari Harapan dan Reinkarnasi.
-
----
-
-## 🏆 Moto DOMINIUM
-
-> "Hanya ketika semua kekuatan seimbang, maka realitas bisa bertahan."  
-> — Heishin (Wakil dari Balance)
+- Eternity + Tokitsune → Tenkai Unmei — Penguasa Mutlak dari Arus Takdir  
+- Death + Kurohime → Meikoku no Kōtei — Kaisar Bayangan dari Kematian  
+- Emptiness + Heishin → Kyomu no Taitei — Kaisar Kekosongan yang Menelan Segalanya  
+- Strength + Iwashige → Bakusai Shindō — Getaran Tak Terhentikan dari Kekuatan Purba  
+- Life + Sakihana → Seika Shin'ō — Raja Ilahi dari Harapan dan Reinkarnasi  
 
 ---
 
-## 📁 Catatan Tambahan
+## 5. Moto DOMINIUM
 
-- DOMINIUM bukan entitas fana — mereka eksis sebagai hukum metafisik.
-- Mereka bisa menjelma dalam bentuk manusia untuk mengintervensi dunia fisik.
-- Setiap pasangan ketua–wakil membawa sejarah, konflik, dan kemungkinan kehancuran bersama.
-- Heishin adalah satu-satunya wakil yang **diciptakan**, bukan terlahir — ditugaskan untuk menjaga keseimbangan akhir.
+> "Hanya ketika kehampaan menerima semua bentuk, maka realitas bisa bertahan."  
+> — Heishin, Wakil dari Emptiness
 
 ---
 
-## 📌 Tentang Pencipta
+## 6. Catatan Tambahan
+
+- DOMINIUM bukan entitas fana; mereka eksis sebagai hukum metafisik.  
+- Mereka dapat menjelma dalam bentuk manusia untuk mengintervensi dunia fisik.  
+- Setiap pasangan Ketua–Wakil membawa sejarah, konflik, dan potensi kehancuran bersama.  
+- Heishin adalah satu-satunya wakil yang **diciptakan**, bukan terlahir, dan ditugaskan untuk menjaga kekosongan akhir.  
+
+---
+
+## 7. Tentang Pencipta
 
 - **Dibuat oleh:** *Illumi*  
 - **Genre:** Dark Fantasy / Kosmik / Metafisik  
-- **Tema Dominan:** Kehendak, Keseimbangan, Kekacauan, Eksistensi
+- **Tema Dominan:** Kehendak, Kekosongan, Kekacauan, Eksistensi  

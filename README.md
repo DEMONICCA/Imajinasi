@@ -17,18 +17,18 @@ Setiap entitas diatur dalam pasangan **Ketua** dan **Wakil**, membentuk Dewan Se
 
 ## 2. Daftar Ketua dan Wakil
 
-| Peringkat | Ketua        | Wakil              | Hubungan Konseptual     | Aspek yang Dikendalikan      |
-| --------: | ------------ | ------------------ | ------------------------ | ----------------------------- |
-| 1         | Absolute     | Tidak Memiliki     | -                        | Eksistensi Mutlak             |
-| 2         | Eternity     | Tokitsune          | Bayangan Kekal           | Waktu Tanpa Batas             |
-| 3         | Death        | Kurohime           | Refleksi Kematian        | Akhir dan Kepunahan           |
-| 4         | Destruction  | Guretsu            | Bayangan Kehancuran      | Penghancur Realitas           |
-| 5         | Hatred       | Shien              | Manifestasi Kebencian    | Kebencian Murni               |
-| 6         | Madness      | Kyōran             | Jiwa yang Terbelah       | Kekacauan Mental              |
-| 7         | Emptiness    | Heishin            | Bayangan Kekosongan      | Kekosongan Mutlak             |
-| 8         | Strength     | Iwashige           | Pilar Fisik Mutlak       | Kekuatan Fisik Tertinggi      |
-| 9         | Anger        | Enjin              | Emosi yang Membakar      | Ledakan Emosi Tak Terkendali  |
-| 10        | Life         | Sakihana           | Cermin Masa Depan        | Awal dan Harapan              |
+| Peringkat | Ketua        | Wakil              | Aspek yang Dikendalikan      |
+| --------: | ------------ | ------------------ | ----------------------------- |
+| 1         | Absolute     | Infinity           | Eksistensi dan Ketakterbatasan |
+| 2         | Eternity     | Tokitsune          | Waktu Tanpa Batas             |
+| 3         | Death        | Kurohime           | Akhir dan Kepunahan           |
+| 4         | Destruction  | Guretsu            | Penghancur Realitas           |
+| 5         | Hatred       | Shien              | Kebencian Murni               |
+| 6         | Madness      | Kyōran             | Kekacauan Mental              |
+| 7         | Emptiness    | Heishin            | Kekosongan Mutlak             |
+| 8         | Strength     | Iwashige           | Kekuatan Fisik Tertinggi      |
+| 9         | Anger        | Enjin              | Ledakan Emosi Tak Terkendali  |
+| 10        | Life         | Sakihana           | Awal dan Harapan              |
 
 ---
 
@@ -53,6 +53,7 @@ Setiap entitas diatur dalam pasangan **Ketua** dan **Wakil**, membentuk Dewan Se
 
 | Wakil      | Form 1               | Form 2                 | Form 3                  |
 | ---------- | -------------------- | ---------------------- | ----------------------- |
+| Infinity   | Mugendai no Kage     | Eien Kyōmei            | Kami no Mugendai        |
 | Tokitsune  | Toki no Yūyami       | Eien no Hakuchūmu      | Kurai Unmei             |
 | Kurohime   | Shisha no Kōkyō      | Mu no Fukushū          | Enrai no Shōkan         |
 | Guretsu    | Kaihō no Shōgeki     | Shūmatsu no Kōrin      | Kurai Kaibutsu          |
@@ -70,6 +71,7 @@ Setiap entitas diatur dalam pasangan **Ketua** dan **Wakil**, membentuk Dewan Se
 Ketika kehancuran semesta tidak dapat dihindari, Ketua dan Wakil dapat menyatu menjadi satu bentuk agung — wujud absolut dari kehendak kosmik.
 
 **Contoh fusi:**
+- Absolute + Infinity → Zettai Mugendai — Entitas Tak Terbatas dari Eksistensi Mutlak  
 - Eternity + Tokitsune → Tenkai Unmei — Penguasa Mutlak dari Arus Takdir  
 - Death + Kurohime → Meikoku no Kōtei — Kaisar Bayangan dari Kematian  
 - Emptiness + Heishin → Kyomu no Taitei — Kaisar Kekosongan yang Menelan Segalanya  
@@ -98,4 +100,4 @@ Ketika kehancuran semesta tidak dapat dihindari, Ketua dan Wakil dapat menyatu m
 
 - **Dibuat oleh:** *Illumi*  
 - **Genre:** Dark Fantasy / Kosmik / Metafisik  
-- **Tema Dominan:** Kehendak, Kekosongan, Kekacauan, Eksistensi  
+- **Tema Dominan:** Kehendak, Kekosongan, Ketakterbatasan, Kekacauan, Eksistensi  
